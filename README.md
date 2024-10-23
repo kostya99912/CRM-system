@@ -21,4 +21,4 @@ A simple Customer Relationship Management (CRM) application built with Django. T
 1. **Clone the repository**:
    Clone the repository to your local machine using Git:
    ```bash
-   git clone https://github.com/kostya99912/Django-CRM
+   git clone https://github.com/kostya99912/CRM-system
